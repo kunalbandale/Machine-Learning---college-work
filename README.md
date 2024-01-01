@@ -1,4 +1,3 @@
-# Machine-Learning college-work
 # Machine Learning College Work Repository
 
 ## Introduction
